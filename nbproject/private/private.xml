@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/AppFactura/src/view/VistaFactura.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/AppFactura/src/application/Application.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/AppFactura/src/view/VistaDetalles.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/AppFactura/src/dao/FacturaDAO.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/AppFactura/src/controller/FacturaController.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/AppFactura/src/dao/mysql/MySQLFacturaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
